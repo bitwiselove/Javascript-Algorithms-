@@ -13,3 +13,5 @@ function binaryGap(N) {
 
   return largestGap;
 }
+
+module.exports = binaryGap;

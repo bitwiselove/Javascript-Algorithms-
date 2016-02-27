@@ -1,0 +1,27 @@
+{
+  "name": "js-algo-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary_gap.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitwiselove/Javascript-Algorithms-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitwiselove/Javascript-Algorithms-/issues"
+  },
+  "homepage": "https://github.com/bitwiselove/Javascript-Algorithms-#readme"
+}
